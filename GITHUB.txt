@@ -1,5 +1,12 @@
 Passo a passo
 
+
+git add. (Adicionar alterações)
+git commit -m "" (guardar modificações)
+git push origin main (subir modificações para o github)
+
+
+
 1.Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
 
 2.Criar um novo repositório no GitHub e fazer o upload de um projeto local para esse repositório. Você pode seguir passos mencionados na aula, como acessar as configurações do GitHub, criar um novo repositório com um nome único e escolher se ele será público ou privado. Em seguida, você pode adicionar uma descrição, um README, um .gitignore e uma licença ao repositório.
