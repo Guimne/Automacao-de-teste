@@ -8,7 +8,8 @@ git pull origin main (baixar modificações)
 
 git status ou log (verificar informações)
 git clone url (colar url no terminal do windows area de trabalho)
-
+ 
+ teste
 
 1.Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
 
