@@ -1,0 +1,27 @@
+Passo a passo
+
+1.Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
+
+2.Criar um novo repositório no GitHub e fazer o upload de um projeto local para esse repositório. Você pode seguir passos mencionados na aula, como acessar as configurações do GitHub, criar um novo repositório com um nome único e escolher se ele será público ou privado. Em seguida, você pode adicionar uma descrição, um README, um .gitignore e uma licença ao repositório.
+
+3.Instalação do Git: Caso você ainda não tenha realizado a instalação, siga os passos na atividade Faça como eu fiz: instalação do Git
+
+4.Para criar um repositório local você, digite o seguinte comando no terminal: git init
+
+5.Para adicionar os arquivos no repositório local, digite no terminal o comando: git add .
+
+6.Faça um commit com as modificações, digite no terminal o comando: git commit -m "mensagem de commit"
+
+7.Para configurar a identidade do autor do commit, digite no terminal o comando:
+
+8.Para criar a branch Main, digite no terminal o comando: git branch -M main
+
+O comando git branch -m é usado para criar uma nova ramificação no repositório Git atual. Neste caso, criamos a branch padrão main, que representa a versão principal do código.
+
+9.Para realizar a conexão do seu repositório local com o remoto via SSH, digite no terminal: git remote add origin https://github.com/seunomedeusuario/seu-repositorio.git
+
+Caso seja necessário, realize a configuração do protocolo SSH através da geração de chave, você pode acompanhar os passos em vídeo na atividade Sincronizando repositórios
+
+10.Para subir as alterações no repositório local para o remoto, digite o seguinte comando no terminal: git push -u origin main
+
+11.Digite no terminal o comando git status e observe a saída.
