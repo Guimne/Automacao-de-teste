@@ -4,8 +4,11 @@ Passo a passo
 git add. (Adicionar alterações)
 git commit -m "" (guardar modificações)
 git push origin main (subir modificações para o github)
+git pull origin main (baixar modificações)
 
-oi 
+git status ou log (verificar informações)
+git clone url (colar url no terminal do windows area de trabalho)
+
 
 1.Crie uma conta no GitHub Você pode começar seguindo os passos mostrados no vídeo, preenchendo o formulário de cadastro, verificando sua conta e explorando a página inicial do GitHub.
 
